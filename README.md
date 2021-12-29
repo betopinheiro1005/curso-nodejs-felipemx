@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Curso de Node.JS
 ## Felipe MX
 
@@ -24,3 +25,7 @@ Aula 12 - Eliminar pedido
 Aula 13 - Obter pedidos por cliente  
 Aula 14 - Buscar produtos por nome  
 Aula 15 - Deploy da aplicação em Heroku e MongoDB Atlas  
+=======
+# curso-nodejs-felipemx
+Curso de Node.JS com MongoDB- Felipe MX
+>>>>>>> 11baed8a12deb531f2416d73b18595a75fc73248
